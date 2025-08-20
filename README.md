@@ -15,8 +15,8 @@
 **GPmix** – Lead developer of the GPmix Python package for clustering functional data using Gaussian Process mixtures. This package supports efficient inference, visualization tools, and is designed for extensibility by researchers and practitioners alike.
 
 🏆 Academic Highlights: 
-- PhD (in progress) in Statistics – Focus: Bayesian methods for functional data
-- MSc in Data Science – Emphasis: Machine learning algorithms & scalable data pipelines
+- PhD (in progress) in Statistics – Focus: Unsupervised learning for functional data
+- MSc in Data Science – Emphasis: Machine learning algorithms & Data-driven mathematical modelling 
 - MSc in Mathematical Sciences – Emphasis: Probability theory & advanced calculus
 
 🧩 Research Interests:  
