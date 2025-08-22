@@ -1,6 +1,6 @@
 # 🎲 Meet me
 
-Hey there! I’m **EAkeweje** — a lifelong explorer of the mathematical universe, now charting new territories in machine learning and statistics. My research journey weaves numbers, code, and creativity into solutions for the world’s trickiest data challenges.
+Hey there! I’m **Emmanuel** — a lifelong explorer of the mathematical universe, now charting new territories in machine learning and statistics. My research journey weaves numbers, code, and creativity into solutions for the world’s trickiest data challenges.
 
 ---
 
