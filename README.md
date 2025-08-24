@@ -24,8 +24,8 @@ Hey there! I’m **Emmanuel** — a lifelong explorer of the mathematical univer
 
 ## 🎓 Academic Adventure
 
-- 📚 **PhD in Statistics** (ongoing) – Bayesian methods for functional data
-- 📊 **MSc in Data Science** – Machine learning & scalable data pipelines
+- 📚 **PhD in Statistics** (ongoing) – Unsupervised learning for functional data
+- 📊 **MSc in Data Science** – Data intensive mathematical modelling & Machine learning
 - 🔢 **MSc in Mathematical Sciences** – Probability theory & advanced calculus
 
 ---
